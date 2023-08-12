@@ -7,7 +7,7 @@
 #### | Hey! My name is Vitória Diniz, I'm 17 years old and I was born in Fortaleza-CE, Brazil. I am currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará on the Fortaleza Campus.
 
 <p> ⇒ 🔭: I am currently working on developing projects using Python, JavaScript, HTML/CSS
-<p> ⇒ 📫: How to reach me **mariavitoriadz@gmail.com**
+<p> ⇒ 📫: How to reach me mariavitoriadz@gmail.com
 <p> ⇒ 👨‍💻: My hobbies are taking pictures, chatting, music, books, programming and creating designs
   
 ---
@@ -41,4 +41,5 @@
 <a href="https://instagram.com/@vitoriadzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vitoriadzz" height="30" width="40" /></a>
 <a align="center" href="mailto:mariavitoriadz@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mariavitoriadz@gmail.com"> </a> 
 </div>
+
 ---
